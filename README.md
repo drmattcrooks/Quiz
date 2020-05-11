@@ -1,2 +1,2 @@
 # Quiz
-python code to create poorly quiz
+python code to create plotly quiz
